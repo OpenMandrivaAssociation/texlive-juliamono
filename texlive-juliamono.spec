@@ -1,9 +1,9 @@
 %global tl_name juliamono
-%global tl_revision 77682
+%global tl_revision 79753
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	0.06
+Version:	0.06a
 Release:	%{tl_revision}.1
 Summary:	Support for the TrueType font JuliaMono
 Group:		Publishing
